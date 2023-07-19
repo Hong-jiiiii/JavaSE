@@ -8,6 +8,8 @@ package section03;
  * 한줄로 조건문 처리를 할 때 요긴
  * 
  * 
+ * 
+ * 
  */
 public class Operator07 {
 	public static void main(String[] args) {
