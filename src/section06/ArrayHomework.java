@@ -43,11 +43,11 @@ public class ArrayHomework {
 		System.out.println();
 		
 		
-	for(int index = 0; index<7; index++) {
-		if (index%2 == 1) {
-			for(int num1 = index; num1>0; num1--)
-				for(int num2 = )
-			System.out.println(nums);
+//	for(int index = 0; index<7; index++) {
+//		if (index%2 == 1) {
+//			for(int num1 = index; num1>0; num1--)
+//				for(int num2 = )
+//			System.out.println(nums);
 		}
 	}
 	

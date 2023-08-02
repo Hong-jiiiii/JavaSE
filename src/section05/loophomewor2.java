@@ -11,6 +11,7 @@ public class loophomewor2 {
 							System.out.print(" ");
 					} 	else {
 							System.out.print("*");}
+				}
 					else {
 						if(j<1-3) {
 							System.out.print(" ");
@@ -22,8 +23,8 @@ public class loophomewor2 {
 					}
 			}
 			 //개행
-					}
-	}
+					
 		System.out.println();
+}
 }
 }

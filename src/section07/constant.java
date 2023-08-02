@@ -7,6 +7,7 @@ package section07;
  * 	보통 대문자로 선언한다.
  * 
  * 
+ * 
  */
 public class constant {
 	static final double PI = 3.141592;
